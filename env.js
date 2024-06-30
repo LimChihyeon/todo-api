@@ -1,0 +1,2 @@
+export const DATABASE_URL =
+  "mongodb+srv://cselyc3004:dlaclgus1106%40@cluster0.47fjwdu.mongodb.net/todo-api?retryWrites=true&w=majority&appName=Cluster0";
